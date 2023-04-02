@@ -1,0 +1,17 @@
+{
+  "id": "d676bed1-39ab-4cf6-9710-f8768d33ef2e",
+  "name": "d676bed1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mil-std-2525": "^0.2.7",
+    "ramda": "^0.28.0",
+    "stanag-app6": "^0.2.0"
+  }
+}
