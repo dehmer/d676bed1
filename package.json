@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mil-std-2525": "^0.2.7",
+    "mil-std-2525": "github:spatialillusions/mil-std-2525",
     "ramda": "^0.28.0",
-    "stanag-app6": "^0.2.0"
+    "stanag-app6": "github:spatialillusions/stanag-app6"
   }
 }
